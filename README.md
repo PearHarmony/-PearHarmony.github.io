@@ -1,2 +1,2 @@
-# -PearHarmony.github.io
+# PearHarmony.github.io
  PearHarmony Webseite
